@@ -9,4 +9,6 @@ Made by Eric Yooniverse
 
 [Visit Github Repo](https://github.com/yummypasta/changemycursor)
 
+[View Promo video on Youtube](https://youtu.be/u-EqpA5yyZU)
+
 <sub>Have a great day.</sub>
