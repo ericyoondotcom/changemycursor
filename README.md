@@ -5,5 +5,8 @@ chrome extension to change your cursor
 
 Made by Eric Yooniverse
 
+[View on the Chrome Web Store!](https://chrome.google.com/webstore/detail/change-my-cursor/lppmahciboilaokklohhhdlaadkobgpc)
 
-^Have a great day.^
+[Visit Github Repo](https://github.com/yummypasta/changemycursor)
+
+<sub>Have a great day.</sub>
