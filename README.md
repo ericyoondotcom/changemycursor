@@ -1,7 +1,7 @@
 # Change My Cursor
 chrome extension to change your cursor
 
-*This is open-source and downloadable by anyone. But, please be polite as I am publishing this and I don't want any others on the Chrome Web Store. Thanks.*
+This software is open-source, as per the terms in the [license](/LICENSE). However, as per the license, you may not distribute it on marketplaces, including but not limited to the Chrome Web Store. **Read the full license though.**
 
 Made by Eric Yooniverse
 
