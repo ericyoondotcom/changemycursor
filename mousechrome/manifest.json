@@ -4,7 +4,8 @@
   "version": "1.0.0",
   "permissions": [
     "scripting",
-    "activeTab"
+    "activeTab",
+    "storage"
   ],
   "action": {
     "default_title": "Change My Cursor!",
