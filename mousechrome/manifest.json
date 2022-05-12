@@ -3,18 +3,19 @@
   "description": "Change your cursor to any picture you like!",
   "version": "1.0.0",
   "permissions": [
-    "activeTab",
-    "tabs"
+    "scripting",
+    "activeTab"
   ],
-  "background": {
-    "scripts": [
-      "infuse.js"
-    ],
-    "persistent": false
+  "action": {
+    "default_title": "Change My Cursor!",
+    "default_icon": "img/cursor.png",
+    "default_popup": "popup.html"
   },
-  "browser_action": {
-    "default_title": "Change My Cursor!!",
-    "default_icon": "img/cursor.png"
-  },
-  "manifest_version": 2
+  "web_accessible_resources": [
+    {
+      "resources": ["img/*"],
+      "matches": ["*://*/*"]
+    }
+  ],
+  "manifest_version": 3
 }

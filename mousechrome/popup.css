@@ -1,0 +1,10 @@
+body {
+    min-width: 200px;
+    min-height: 400px;
+}
+
+#grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+
+}
