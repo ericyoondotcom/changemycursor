@@ -1,7 +1,7 @@
 {
   "name": "Change My Cursor",
   "description": "Change your cursor to any picture you like!",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "permissions": [
     "scripting",
     "activeTab",
